@@ -1,5 +1,5 @@
 # Cloadflare D1 database in Nuxt
 
-Tutorial Video: [https://youtu.be/sKBlwlyLxSo](https://youtu.be/sKBlwlyLxSo) (27 munites)
+Tutorial Video: [https://www.youtube.com/watch?v=sKBlwlyLxSo](https://www.youtube.com/watch?v=sKBlwlyLxSo) (27 munites)
 
 DEMO: [https://nuxt-d1.pages.dev/](https://nuxt-d1.pages.dev/)
